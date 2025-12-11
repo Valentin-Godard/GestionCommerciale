@@ -1,0 +1,27 @@
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\bin\Debug\GesComDAL.dll
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\bin\Debug\GesComDAL.pdb
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\bin\Debug\GesComModels.dll
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\bin\Debug\GesComModels.pdb
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.csproj.AssemblyReference.cache
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.csproj.CoreCompileInputs.cache
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.csproj.Up2Date
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.dll
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\bin\Debug\GesComDAL.dll
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\bin\Debug\GesComDAL.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\bin\Debug\GesComModels.dll
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\bin\Debug\GesComModels.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.csproj.Up2Date
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.dll
+C:\Users\valen\source\repos\UtilisateursGUI\GesComDAL\obj\Debug\GesComDAL.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\bin\Debug\GesComDAL.dll
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\bin\Debug\GesComDAL.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\bin\Debug\GesComModels.dll
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\bin\Debug\GesComModels.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\obj\Debug\GesComDAL.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\obj\Debug\GesComDAL.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\obj\Debug\GesComDAL.csproj.Up2Date
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\obj\Debug\GesComDAL.dll
+C:\Users\valen\source\repos\GestionCommerciale\GesComDAL\obj\Debug\GesComDAL.pdb
