@@ -1,0 +1,18 @@
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComModels\bin\Debug\GesComModels.dll
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComModels\bin\Debug\GesComModels.pdb
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComModels\obj\Debug\GesComModels.csproj.AssemblyReference.cache
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComModels\obj\Debug\GesComModels.csproj.CoreCompileInputs.cache
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComModels\obj\Debug\GesComModels.dll
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComModels\obj\Debug\GesComModels.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComModels\bin\Debug\GesComModels.dll
+C:\Users\valen\source\repos\UtilisateursGUI\GesComModels\bin\Debug\GesComModels.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComModels\obj\Debug\GesComModels.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\UtilisateursGUI\GesComModels\obj\Debug\GesComModels.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\UtilisateursGUI\GesComModels\obj\Debug\GesComModels.dll
+C:\Users\valen\source\repos\UtilisateursGUI\GesComModels\obj\Debug\GesComModels.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComModels\bin\Debug\GesComModels.dll
+C:\Users\valen\source\repos\GestionCommerciale\GesComModels\bin\Debug\GesComModels.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComModels\obj\Debug\GesComModels.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\GestionCommerciale\GesComModels\obj\Debug\GesComModels.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\GestionCommerciale\GesComModels\obj\Debug\GesComModels.dll
+C:\Users\valen\source\repos\GestionCommerciale\GesComModels\obj\Debug\GesComModels.pdb
