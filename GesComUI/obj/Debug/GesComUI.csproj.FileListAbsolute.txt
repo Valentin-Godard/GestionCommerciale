@@ -1,0 +1,56 @@
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComUI.exe.config
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComUI.exe
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComUI.pdb
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComBLL.dll
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComDAL.dll
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComModels.dll
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComBLL.pdb
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComDAL.pdb
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\bin\Debug\GesComModels.pdb
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.csproj.AssemblyReference.cache
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.exe.config
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesCom.UI.ProductListForm.resources
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.Properties.Resources.resources
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.csproj.GenerateResource.cache
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.csproj.CoreCompileInputs.cache
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.csproj.Up2Date
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.exe
+C:\Program Files\GitHub\GestionCommerciale\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComUI.exe.config
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComUI.exe
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComUI.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComBLL.dll
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComDAL.dll
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComModels.dll
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComBLL.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComDAL.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\bin\Debug\GesComModels.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesCom.UI.ProductListForm.resources
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.Properties.Resources.resources
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.csproj.Up2Date
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.exe
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.pdb
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesComUI.exe.config
+C:\Users\valen\source\repos\UtilisateursGUI\GesComUI\obj\Debug\GesCom.UI.DevisListForm.resources
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComUI.exe.config
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComUI.exe
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComUI.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComBLL.dll
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComDAL.dll
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComModels.dll
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComBLL.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComDAL.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\bin\Debug\GesComModels.pdb
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesComUI.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesComUI.exe.config
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesCom.UI.DevisListForm.resources
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesCom.UI.ProductListForm.resources
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesComUI.Properties.Resources.resources
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesComUI.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesComUI.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesComUI.csproj.Up2Date
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesComUI.exe
+C:\Users\valen\source\repos\GestionCommerciale\GesComUI\obj\Debug\GesComUI.pdb
